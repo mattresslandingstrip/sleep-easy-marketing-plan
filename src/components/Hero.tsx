@@ -22,12 +22,9 @@ const Hero = () => {
             and advertising that drives sales.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <div className="flex justify-center items-center">
             <Button variant="hero" size="lg" className="text-lg px-8 py-4">
               Book a Free Strategy Call
-            </Button>
-            <Button variant="outline-hero" size="lg" className="text-lg px-8 py-4">
-              Wake Up Your Marketing
             </Button>
           </div>
         </div>
