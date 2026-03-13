@@ -1,10 +1,3 @@
-const stats = [
-  { value: "50+", label: "Mattress Stores Served" },
-  { value: "3x", label: "Average Revenue Increase" },
-  { value: "98%", label: "Client Retention Rate" },
-  { value: "$2M+", label: "In Client Sales Generated" },
-];
-
 const services = [
   { emoji: "🎨", title: "Bold Branding", desc: "Identities that stick in people's minds long after they leave your store." },
   { emoji: "📍", title: "Local Domination", desc: "Own your city with hyper-targeted ads that bring foot traffic in the door." },
