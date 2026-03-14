@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section className="bg-background py-20 md:py-28">
       <div className="container max-w-[1200px] mx-auto px-6">
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+        <div className="max-w-2xl mx-auto text-center">
           {/* Left: Text */}
           <div>
             <h1 className="text-[clamp(2.25rem,5vw,3.5rem)] font-extrabold text-foreground leading-[1.1] tracking-tight mb-6">
