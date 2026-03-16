@@ -4,6 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
+// base: './' ensures assets load correctly on GitHub Pages and custom domains
 export default defineConfig(({ mode }) => ({
   base: mode === 'production' ? './' : '/',
   server: {
