@@ -16,7 +16,9 @@ const Hero = () => {
           </p>
 
           <a
-            href="#contact"
+            href="https://calendly.com/mike-mattressmedia/30min"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center justify-center bg-primary text-primary-foreground font-semibold text-base rounded-[6px] px-7 py-3.5 hover:bg-primary-hover transition-colors duration-200 shadow-card w-full sm:w-auto"
           >
             Book a Free Strategy Call
