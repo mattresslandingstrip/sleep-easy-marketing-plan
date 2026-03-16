@@ -15,7 +15,9 @@ const CTA = () => {
 
         <div className="flex justify-center mb-8">
           <a
-            href="#contact"
+            href="https://calendly.com/mike-mattressmedia/30min"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2.5 bg-background text-primary font-semibold text-base rounded-[6px] px-8 py-3.5 hover:bg-muted transition-colors duration-200 shadow-medium w-full sm:w-auto"
           >
             <Calendar className="w-5 h-5" />
