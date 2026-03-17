@@ -1,4 +1,5 @@
-import { Bed, Mail, Phone, MapPin } from "lucide-react";
+import { Mail, Phone, MapPin } from "lucide-react";
+import mmLogo from "@/assets/mm-logo.png";
 
 const Footer = () => {
   return (
@@ -7,11 +8,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Logo & Tagline */}
           <div className="lg:col-span-2">
-            <div className="flex items-center gap-2.5 mb-4">
-              <div className="p-1.5 bg-primary rounded-md">
-                <Bed className="w-5 h-5 text-white" />
-              </div>
-              <span className="text-xl font-bold">Mattress Media</span>
+            <div className="mb-4">
+              <img src={mmLogo} alt="Mattress Media" className="h-16 w-auto bg-white rounded-lg px-3 py-1" />
             </div>
             <p className="text-white/60 text-base mb-4 max-w-md leading-relaxed">
               Because your marketing should be as comfortable as your mattresses.
