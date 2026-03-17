@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <img src={mmLogo} alt="Mattress Media" className="h-10 w-auto" />
+            <img src={mmLogo} alt="Mattress Media" className="h-14 w-auto" />
           </div>
 
           {/* CTA */}
