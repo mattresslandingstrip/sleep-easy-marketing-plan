@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container max-w-[1200px] mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <div className="flex items-center">
+          <div className="flex items-center pt-4">
             <img src={mmLogo} alt="Mattress Media" className="h-44 w-auto" />
           </div>
 
