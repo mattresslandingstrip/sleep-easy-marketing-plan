@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Logo & Tagline */}
           <div className="lg:col-span-2">
             <div className="mb-4">
-              <img src={mmLogo} alt="Mattress Media" className="h-16 w-auto bg-white rounded-lg px-3 py-1" />
+              <img src={mmLogo} alt="Mattress Media" className="h-48 w-auto" />
             </div>
             <p className="text-white/60 text-base mb-4 max-w-md leading-relaxed">
               Because your marketing should be as comfortable as your mattresses.
