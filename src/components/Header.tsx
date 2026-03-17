@@ -1,4 +1,4 @@
-import mmLogo from "@/assets/mm-logo.png";
+import mmLogo from "@/assets/mm-logo-header.png";
 
 const Header = () => {
   return (
@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <img src={mmLogo} alt="Mattress Media" className="h-14 w-auto" />
+            <img src={mmLogo} alt="Mattress Media" className="h-44 w-auto" />
           </div>
 
           {/* CTA */}
