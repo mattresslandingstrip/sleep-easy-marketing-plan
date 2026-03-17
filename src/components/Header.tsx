@@ -1,4 +1,4 @@
-import mmLogo from "@/assets/mm-logo.png";
+import mmLogo from "@/assets/mm-logo-header.png";
 
 const Header = () => {
   return (
