@@ -3,7 +3,7 @@ import mmLogo from "@/assets/mm-logo.png";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#1A1A1A] text-white py-16">
+    <footer className="bg-foreground text-background py-16">
       <div className="container max-w-[1200px] mx-auto px-6">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Logo & Tagline */}
