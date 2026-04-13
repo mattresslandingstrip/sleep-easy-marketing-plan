@@ -39,7 +39,7 @@ const Solution = () => {
       <div className="container px-4 mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            <span className="bg-text-gradient bg-clip-text text-transparent">
+            <span className="text-primary">
               We Turn Mattress Stores Into Local Legends
             </span>
           </h2>

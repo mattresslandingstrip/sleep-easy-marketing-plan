@@ -40,7 +40,7 @@ const WhyUs = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
             We're Not a General Ad Agency—
-            <span className="bg-text-gradient bg-clip-text text-transparent block">
+            <span className="text-primary block">
               We're Mattress-Obsessed
             </span>
           </h2>

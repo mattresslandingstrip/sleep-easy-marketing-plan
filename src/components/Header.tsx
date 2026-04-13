@@ -2,7 +2,7 @@ import mmLogo from "@/assets/mm-logo-header.png";
 
 const Header = () => {
   return (
-    <header className="sticky top-0 z-50 bg-background border-b border-[#EEEEEE]">
+    <header className="sticky top-0 z-50 bg-background border-b border-border">
       <div className="container max-w-[1200px] mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
